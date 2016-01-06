@@ -1,2 +1,2 @@
-Technical concepts can be evaluated using proof of concepts. Keep in mind that it is better to decide as late as possible to minimize the risc of wrong decisions. This is called 
+Technical concepts can be evaluated using a Proof-of-Concept (PoC) approach. Keep in mind that it is better to decide as late as possible to minimize the risk of wrong decisions. This is called 
 "last responsible moment" or just LRM.

@@ -1,1 +1,1 @@
-You will have to make desicsions about tools and frameworks. In difficult cases it should be documented as architectural decision including the reasons the made the decision!
+You will have to make desicsions about tools and frameworks. In difficult cases it should be documented as an architectural decision including the reasoning behind the decision!

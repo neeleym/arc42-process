@@ -1,2 +1,2 @@
-To fulfil the requirements the software solution may need technical concepts and frameworks.
+To fulfill the requirements the software solution may need technical concepts and frameworks.
 Use tested and well known patterns and concepts that match specific parts of your solution.
